@@ -1,6 +1,6 @@
 # polymorphism-in-java
 
-##1 
+## 1 
 Crie uma classe Calculadora. Essa classe deve implementar as operações básicas (soma, subtração, divisão e multiplicação) entre dois números. Utilizando o conceito de herança, crie uma calculadora científica que implemente os seguintes cálculos: raiz quadrada e potência. Dica: utilize a classe Math do pacote java.lang. Crie uma classe de teste para utilizar os dois tipos de calculadoras para realização dos cálculos oferecidos.
 
 ## 2
